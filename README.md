@@ -12,7 +12,7 @@ Notes:
   - 2 screen Home.screen.js and Comment.screen.js to be review
 
 SS home:
-![alt text]https://github.com/calvintorsaGit/propertyguru_test/blob/master/ss2.png?raw=true
+![alt text](https://github.com/calvintorsaGit/propertyguru_test/blob/master/ss2.png?raw=true)
 
 SS detail home:
-![alt text]https://github.com/calvintorsaGit/propertyguru_test/blob/master/ss1.png?raw=true
+![alt text](https://github.com/calvintorsaGit/propertyguru_test/blob/master/ss1.png?raw=true)
