@@ -1,5 +1,4 @@
-# propertyguru_test
-Propertyguru react native project Test
+# RN_HACKERNEWS
 
 Version:
      "react": "17.0.2",
